@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="saludo">Hello</string>
+    <string name="boton">Calc BMI</string>
+    <string name="estatura">Enter height (m)</string>
+    <string name="peso">Enter weight (Kg)</string>
+    <string name="delgado">THIN</string>
+    <string name="ideal">FIT</string>
+    <string name="desnutrido">MALNOURISHED</string>
+    <string name="sobrepeso">OVERWEIGHT</string>
+    <string name="obesidad">OBESITY</string>
+</resources>

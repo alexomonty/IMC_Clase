@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="saludo">Hola</string>
+    <string name="boton">Calcular IMC</string>
+    <string name="estatura">Introduzca estatura (m)</string>
+    <string name="peso">Introduzca peso (Kg)</string>
+    <string name="desnutrido">DESNUTRIDO</string>
+    <string name="delgado">DELGADO</string>
+    <string name="ideal">peso IDEAL</string>
+    <string name="sobrepeso">SOBREPESO</string>
+    <string name="obesidad">OBESIDAD</string>
+
+</resources>
